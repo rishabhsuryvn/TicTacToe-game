@@ -16,7 +16,7 @@ const winCombo= [
     {combo: [2,5,8], strikeClass: "strike-column-3"},
 
     {combo: [0,4,8], strikeClass: "strike-diagonal-1"},
-    {combo: [2,5,6], strikeClass: "strike-diagonal-2"},
+    {combo: [2,4,6], strikeClass: "strike-diagonal-2"},
 ]
 
 function checkWinner(square,setStrikeClass, setGameState){
